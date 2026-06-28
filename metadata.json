@@ -1,0 +1,6 @@
+{
+  "name": "College Management System",
+  "description": "An interactive College Management System project companion, featuring a comprehensive presentation deck, viva preparation guide, and a live fully-functional administration dashboard for managing students, faculty, attendance, fees, courses, and results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
